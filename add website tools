@@ -3,5 +3,5 @@ Setup: Browser Web Developer Extension
 Setup: GitHub Account
 Setup: Microsoft Teams
 Setup: Live Server Extension for vscode
-Use https://picresize.com/ and https://tinypng.com/ to resize/compress image
+Use https://squoosh.app/  to resize/compress image (resize resolution=200%, compress type webP, quality = 70%)
 Use https://pagespeed.web.dev/ to check website speed
