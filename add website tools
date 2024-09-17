@@ -3,5 +3,5 @@ Setup: Browser Web Developer Extension
 Setup: GitHub Account
 Setup: Microsoft Teams
 Setup: Live Server Extension for vscode
-Use https://picresize.com/ to resize image
+Use https://picresize.com/ and https://tinypng.com/ to resize/compress image
 Use https://pagespeed.web.dev/ to check website speed
